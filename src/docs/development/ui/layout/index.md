@@ -864,12 +864,12 @@ body: Center(
 Flutter has a rich library of layout widgets. Here are a few of those most
 commonly used. The intent is to get you up and running as quickly as possible,
 rather than overwhelm you with a complete list.  For information on other
-available widgets, refer to the [Widget catalog][],
+available widgets, refer to the [Widget catalog](https://flutter.dev/docs/development/ui/widgets),
 or use the Search box in the [API reference docs]({{api}}).
 Also, the widget pages in the API docs often make suggestions
 about similar widgets that might better suit your needs.
 
-Flutter 有一个丰富的布局 widget 仓库。里面有很多经常会用到的布局 widget。目的是为了让你更快的上手，而不是被一个完整的列表吓跑。关于其他有用的 widget 的信息，可以参考 [Widget 目录][]，或者使用 [API 参考文档]({{api}}) 中的搜索框。而且，API 文档中的 widget 页面中经常会给出一些关于相似的 widget 哪个会更适合你的建议。
+Flutter 有一个丰富的布局 widget 仓库。里面有很多经常会用到的布局 widget。目的是为了让你更快的上手，而不是被一个完整的列表吓跑。关于其他有用的 widget 的信息，可以参考 [Widget 目录](https://flutter.dev/docs/development/ui/widgets)，或者使用 [API 参考文档]({{api}}) 中的搜索框。而且，API 文档中的 widget 页面中经常会给出一些关于相似的 widget 哪个会更适合你的建议。
 
 The following widgets fall into two categories: standard widgets from the
 [widgets library][], and specialized widgets from the [Material library][]. Any
